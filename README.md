@@ -1,4 +1,4 @@
-# Analyzing-Employee-Dynamics-Turnover-Absenteeism-and-Diversity
+# Analysing-Employee-Dynamics-Turnover-Absenteeism-and-Diversity
 
 
 ## Table of Contents 
