@@ -31,11 +31,36 @@ The initial data preparation phase, we performed following tasks
 4. Data Documentation Review: Review metadata to grasp dataset structure, meaning, and potential quality issues prior to cleaning
 
 ### Exploratory Data Analysis
+Exploratory Data Analysis (EDA) was applied to the Human Resource data to examine and understand specific questions or issues related to the data
 
-
+- What are the key factors contributing to employee turnover?
+- What are the overal absenteeism across different departments ?  What are the absenteeism rates across different demographic groups (e.g., age, gender)?
+- What are our best recruiting sources if we want to ensure a diverse organization?
+  
 ### Data analysis 
 
+``` SQL
 
+SELECT *
+FROM (
+	SELECT 
+		EmpID,
+		Employee_Name,
+		Department, 
+		DateofHire,
+		CASE
+			WHEN DATEOFTermination IS NULL THEN 'Active'
+			ELSE 'Inactive' END AS EmployeeStatus,
+		CASE 
+			WHEN DateofTermination IS NOT NULL THEN DATEDIFF(YEAR, DateofHire, DateofTermination)
+			ELSE DATEDIFF(YEAR, DateofHire, GETDATE())
+		END AS Tenure
+	FROM 
+		HRDataset_New) AS EmpTenure 
+WHERE EmployeeStatus = 'active' 
+order by Tenure desc 
+
+```
 
 ### Findings 
 
