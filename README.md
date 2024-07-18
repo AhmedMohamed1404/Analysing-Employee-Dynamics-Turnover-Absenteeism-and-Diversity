@@ -28,7 +28,7 @@ The initial data preparation phase, we performed following tasks
 1. Data Exploration: Understand dataset structure, contents, and potential issues.
 2. Data Profiling: Identify data types, distributions, missing values, and anomalies for cleaning or preprocessing.
 3. Data Sampling: Extract a representative subset for initial analysis and testing of cleaning procedures.
-4. Data Documentation Review: Review metadata to grasp dataset structure, meaning, and potential quality issues prior to cleaning
+4. Data Dictionary Review: Review metadata to grasp dataset structure, meaning, and potential quality issues prior to cleaning
 
 ### Exploratory Data Analysis
 Exploratory Data Analysis (EDA) was applied to the Human Resource data to examine and understand specific questions or issues related to the data
