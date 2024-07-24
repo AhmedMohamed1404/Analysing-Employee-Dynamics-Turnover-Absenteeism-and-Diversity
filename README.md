@@ -64,5 +64,40 @@ order by Tenure desc
 
 ### Findings 
 
+#### Turnover  
+1. Voluntary Turnover: Top reasons: Better opportunities, dissatisfaction with current role, and better benefits.
+2. Involuntary Turnover: Top reasons: Attendance issues, no-call no-show incidents, and criminal background discoveries (e.g., gang affiliation). 
+3. Gender-Based Turnover: Female turnover is higher than male turnover, primarily due to voluntary resignations. 
+
+#### Absenteeism 
+1. Sales, IT, and production departments have the highest absenteeism among the six departments in the company. 
+2. The overall absenteeism rate of females is higher than that of males; however, females have higher overall employee satisfaction.
+
+#### Diversity and Recruitment Source Performance:
+1. Indeed, and LinkedIn Attracts candidates from various backgrounds and demographics, ensuring a diverse number of applicants 
+2. Diversity Job Fair smaller in application volume than indeed but effective hiring specifically Black and African American minority. 
+
+
 
 ### Recommandations 
+
+#### Turnover 
+1. Career Development Programs: Offer clear career paths and advancement opportunities within the company.
+2. Competitive Benefits Packages: Regularly review and improve benefits, including health insurance, retirement plans, and other attractive perks.
+3. Role Enrichment and Job Rotation: Provide opportunities for employees to engage in different projects or roles to keep their work interesting and challenging.
+4. Competitive Pay Structure: Conduct market salary surveys to ensure the company offers competitive salaries.
+
+   
+#### Absenteeism 
+1. Implement flexible work arrangements to improve work-life balance.
+2. Introduce employee wellness programs to enhance health and job satisfaction.
+3. Provide professional development opportunities to keep employees engaged and motivated.
+
+
+#### Diversity and Recruitment Source Performance:
+1. increase the presence of Indeed and LinkedIn with diversity-focused postings,
+2. Leverage Diversity Job Fair for target recruitment specifically Black and African American
+3. Build a reputation as an employer committed to diversity and equal opportunity.
+
+
+
