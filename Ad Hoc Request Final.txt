@@ -1,0 +1,15 @@
+1. Identify high-performing employees (those with a performance score of 'Exceeds' or 'Fully Meets') 
+	and calculate their average salary, grouped by department and gender.
+
+2. Provide a list of active employees' tenure and determine their current employment status. 
+	This should include EmployeeID, Employee Name, Department, Date of Hire, 
+	Employee Status, and Tenure, ordered by higher tenure.
+
+3. Provide the number of employees and then group them by their recruitment source. 
+
+4. Use SQL queries to calculate Racial Diversity and Gender Diversity metrics for each recruiting source, 
+	including the total number of employees, the count of female and male employees, 
+	and the count of employees from different racial backgrounds.
+
+
+
