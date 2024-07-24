@@ -17,7 +17,7 @@
 The Project aims to conduct a comprehensive analysis of Human Resource related metrics to gain actionalbe insights into employee turnover, absenteesim trends and diversity profiles within the organisation. 
 
 ### Data Source
-The Human Resource data set was dowloaded from Kaggle [Dowload here](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data)
+The Human Resource data set was dowloaded from Kaggle 
 
 ### Tools 
 - SQL Server - Cleaning / Data Analysis 
